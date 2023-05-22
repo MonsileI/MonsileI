@@ -3,15 +3,16 @@
 <p align='center'>
   <img src="https://img.shields.io/badge/C%23-7ED321?style=for-the-badge&logo=CSharp&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-117ACA?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=Python&logoColor=white">
 </p>
 <p align='center' style="font-size: 40px;"> Experience </p>
 <p align='center'>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-R4373A?style=for-the-badge&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-A4373A?style=for-the-badge&logo=Unity&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-A4373B?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-117ACA?style=for-the-badge&logo=Flutter&logoColor=white">
 </p>
 
 <p align='center'>
