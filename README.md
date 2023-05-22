@@ -19,7 +19,7 @@
 </p>
 
 <p align='center'>
-  ✨링크🎉
+  Link
 </p>
 
 <div align="center">
@@ -37,7 +37,7 @@
   
 </div>
 <p align='center'>
-  🍷트로피🍷
+  Trophy
 </p>
 
 <div align="center">
