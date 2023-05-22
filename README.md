@@ -45,7 +45,7 @@
   
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Ç'est%20LaVie!&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Ç'est%20La&nbsp;Vie!&fontSize=90)
 
 
 <!--
