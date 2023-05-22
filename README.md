@@ -1,9 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HONGBIN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HANSAEM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer!&descAlignY=51&descAlign=62)
+
 <p align='center' style="font-size: 40px;">  Langauge </p>
 <p align='center'>
   <img src="https://img.shields.io/badge/C%23-7ED321?style=for-the-badge&logo=CSharp&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-117ACA?style=for-the-badge&logo=Java&logoColor=white">
 </p>
+
 <p align='center' style="font-size: 40px;"> Experience </p>
 <p align='center'>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"/>
@@ -37,7 +39,7 @@
   
 </div>
 <p align='center'>
-  🍷트로피🍷
+
 </p>
 
 <div align="center">
