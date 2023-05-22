@@ -9,9 +9,9 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dynamics 365-A4373A?style=for-the-badge&logo=Unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-A4373A?style=for-the-badge&logo=Unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-A4373B?style=for-the-badge&logo=Flutter&logoColor=white">
 </p>
 
 <p align='center'>
@@ -19,7 +19,9 @@
 </p>
 
 <div align="center">
-<a  href="https://dev-hongbin.tistory.com/"><img src="https://user-images.githubusercontent.com/105191633/227961244-6f04a4a9-ce2d-4411-99ce-19f1b4ecdb01.png" height="28"> </a>
+<a  href="https://blog.naver.com/hansaem900d/">기술블로그</a>
+<br/>
+<br/>
   
 </div>
 
@@ -29,7 +31,7 @@
 
 <div align="center">
 
-![hong-bin95's github stats](https://github-readme-stats.vercel.app/api?username=MonsileI&show_icons=true)
+![MonsileI's github stats](https://github-readme-stats.vercel.app/api?username=MonsileI&show_icons=true)
   
 </div>
 <p align='center'>
