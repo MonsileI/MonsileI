@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dynamics 365-A4373A?style=for-the-badge&logo=Dynamics 365&logoColor=white">
+  <img src="https://img.shields.io/badge/Dynamics 365-A4373A?style=for-the-badge&logo=Unity&logoColor=white">
 </p>
 
 <p align='center'>
