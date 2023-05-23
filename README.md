@@ -27,7 +27,7 @@
 </div>
 
 <p align='center'>
-  🍿커밋🍿
+  Commit
 </p>
 
 <div align="center">
